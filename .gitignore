@@ -1,0 +1,20 @@
+.classpath
+.project
+
+gradlew
+gradlew.bat
+
+**/.settings/**
+**/target/**
+**/.gradle/**
+**/bin/**
+**/build/**
+**/node_modules/**
+
+# Mac OS
+.DS_Store
+
+
+/.gradle/
+/bin/
+/build/
